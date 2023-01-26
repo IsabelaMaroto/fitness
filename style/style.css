@@ -38,7 +38,7 @@
 }
 
 .frase1 .box {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img/trilha.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/trilha.jpg");
   min-height: 350px;
   background-attachment: fixed;
   background-size: cover;
@@ -59,7 +59,7 @@
 }
 
 .frase2 .box {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img/treino-praia.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/treino-praia.jpg");
   min-height: 350px;
   background-attachment: fixed;
   background-position: bottom;
